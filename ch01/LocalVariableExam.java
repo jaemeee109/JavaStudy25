@@ -3,7 +3,7 @@ package ch01;
 public class LocalVariableExam {
 
 	public static void main(String[] args) {
-		// º¯¼öÀÇ »ç¿ë¹üÀ§´Â °ıÈ£ () ¾È¿¡¼­ »ç¿ëµÊ
+		// ë³€ìˆ˜ì˜ ì‚¬ìš©ë²”ìœ„ëŠ” ê´„í˜¸ (ë¸”ëŸ­) ì•ˆì—ì„œ íš¨ê³¼ë¥¼ ë°œíœ˜í•¨
 		
 		int v1 = 10;
 		int v2 = 0;
@@ -15,9 +15,9 @@ public class LocalVariableExam {
 		
 		int v3 = v1 + v2 + 25 ;
 		
-		System.out.println("v1ÀÇ °ª : " + v1);
-		System.out.println("v2ÀÇ °ª : " + v2);
-		System.out.println("v3ÀÇ °ª : " + v3);
+		System.out.println("v1ì˜ ê°’ : " + v1);
+		System.out.println("v2ì˜ ê°’ : " + v2);
+		System.out.println("v3ì˜ ê°’ : " + v3);
 	}
 
 }

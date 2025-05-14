@@ -4,11 +4,11 @@ public class RunStateExam {
 
 	public static void main(String[] args) {
 		// 
-		int x = 1 ; // x º¯¼ö¿¡ ¼ıÀÚ 1À» ³Ö´Â´Ù.
-		int y = 2 ; // y º¯¼ö¿¡ ¼ıÀÚ 2¸¦ ³Ö´Â´Ù.
-		int result = x + y ; // result º¯¼ö¿¡ x + y °ªÀ» ³Ö¾îÁØ´Ù. 
+		int x = 1 ; // x ì •ìˆ˜íƒ€ì…ì˜ xë³€ìˆ˜ì— 1ì„ ë„£ëŠ”ë‹¤.
+		int y = 2 ; // y ì •ìˆ˜íƒ€ì…ì˜ yë³€ìˆ˜ì— 2ë¥¼ ë„£ëŠ”ë‹¤.
+		int result = x + y ; // ì •ìˆ˜íƒ€ì…ì˜ result ë³€ìˆ˜ì˜ xë³€ìˆ˜ì™€ yë³€ìˆ˜ë¥¼ ë”í•´ ë„£ëŠ”ë‹¤
 		
-		System.out.println("x+y=" + result); // Ãâ·Â
+		System.out.println("x+y=" + result); // sysout+ctrl+spacebar
 		
 		int t = 8 ;
 		int v = 12 ;
@@ -16,7 +16,7 @@ public class RunStateExam {
 		
 		System.out.println("cat=" + cat);
 		System.out.println("8=" + cat);
-		// µû¿ÈÇ¥ ¾È¿¡ ÀÖ´Â°Ç µû¿ÈÇ¥¿¡ ÀûÈù°Å ±×´ë·Î Ãâ·ÂµÇ°í + ÀÌÈÄ¿¡ ÀûÈù°Ç º¯¼ö°ªÀÌ ³ª¿È
+		// Console ì°½ì— ê²°ê³¼ë¥¼ ì¶œë ¥í•œë‹¤.
 
 	}
 
